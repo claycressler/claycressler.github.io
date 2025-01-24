@@ -20,7 +20,8 @@
 
 title: Cressler Lab
 email: your-email@example.com
-description: >- "Cressler Lab | School of Biological Sciences | University of Nebraska-Lincoln"
+description: "Cressler Lab | School of Biological Sciences | University of Nebraska-Lincoln"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
